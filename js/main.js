@@ -5,7 +5,7 @@
 
 // Configuration
 const CONFIG = {
-    githubUsername: 'Ravin-dev-129',
+    githubUsername: 'ravingodbole',
     apiBaseUrl: 'https://api.github.com',
     maxProjects: 12,
     animationDelay: 100
